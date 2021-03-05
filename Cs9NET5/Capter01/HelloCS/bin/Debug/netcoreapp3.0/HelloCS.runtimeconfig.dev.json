@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/raptor/.dotnet/store/|arch|/|tfm|",
+      "/Users/raptor/.nuget/packages"
+    ]
+  }
+}

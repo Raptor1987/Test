@@ -1,0 +1,10 @@
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.deps.json
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.runtimeconfig.json
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.runtimeconfig.dev.json
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.dll
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.pdb
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.csprojAssemblyReference.cache
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.AssemblyInfoInputs.cache
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.AssemblyInfo.cs
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.dll
+/Users/raptor/Desktop/Cs9NET5/Capter01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.pdb
